@@ -36,4 +36,3 @@ Test-Suite           delaunay-testsuite
                      , delaunay
                      , QuickCheck >= 2.4.0.0
                      , HUnit >= 1.2.0.0
-
